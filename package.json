@@ -50,7 +50,7 @@
     "@types/node": "^22.0.0",
     "@types/ws": "^8.5.9",
     "cross-env": "^10.1.0",
-    "typescript": "^5.7.0",
+    "typescript": "^7.0.2",
     "vite-node": "^3.2.4",
     "vitest": "^4.1.0"
   },
